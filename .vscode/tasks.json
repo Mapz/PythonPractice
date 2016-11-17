@@ -1,0 +1,6 @@
+{
+    "version": "0.1.0",
+    "command": "python3",
+    "args": ["${file}"],
+    "showOutput": "always"
+}
